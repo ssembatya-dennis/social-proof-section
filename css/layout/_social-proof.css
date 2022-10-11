@@ -1,0 +1,17 @@
+.social-proof {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12.5rem;
+}
+
+.social-proof__details {
+  width: calc(100% - ((2 * 16.5rem) + 12.5rem) / 2);
+}
+
+.social-proof__ratings {
+  width: calc(100% - ((2 * 16.5rem) + 12.5rem) / 2);
+}

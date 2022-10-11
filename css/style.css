@@ -1,0 +1,19 @@
+/*General CSS Stylesheet*/
+
+/*Base*/
+@import url("./base/_base.css");
+@import url("./base/_typography.css");
+
+/*Components*/
+@import url("./components/_rate.css");
+
+/*Layout*/
+@import url("./layout/_social-proof.css");
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

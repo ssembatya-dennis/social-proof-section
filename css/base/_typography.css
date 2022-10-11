@@ -1,0 +1,37 @@
+/*Page Typography styles */
+
+body {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #777;
+}
+
+/*Social Proof Typography*/
+
+.social-proof__heading {
+  font-weight: 700;
+  font-size: 5.6rem;
+  line-height: 1.1;
+  letter-spacing: -2px;
+  color: #512051;
+  margin-bottom: 1.6rem;
+}
+
+.heading__text {
+  font-weight: 500;
+  font-size: 1.9rem;
+  line-height: 1.5;
+  letter-spacing: -0.633333px;
+  color: #927b91;
+}
+
+/*Social proof Component Typography*/
+
+.social-proof__rate_text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 16px;
+  color: #512051;
+}

@@ -1,0 +1,29 @@
+.social-proof__rate {
+  max-width: 44.5rem;
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.3rem;
+  background: #f7f2f7;
+  border-radius: 8px;
+}
+
+.social-proof__rate--1 {
+  margin-bottom: 1.6rem;
+  transform: translateX(-80px);
+}
+
+.social-proof__rate--2 {
+  margin-bottom: 1.6rem;
+  transform: translateX(-40px);
+}
+
+.social-proof__rate--3 {
+  margin-bottom: 1.6rem;
+  transform: translateX(0);
+}
+
+.social-proof__rate_text {
+  display: inline-block;
+}
