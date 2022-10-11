@@ -40,3 +40,22 @@
 .testmonial__card--3 {
   transform: translateY(60px);
 }
+
+@media screen and (max-width: 425px) {
+  .testmonial__card {
+    max-width: 327px;
+    height: 248px;
+  }
+
+  .testmonial__card--1 {
+    transform: translateY(0);
+  }
+
+  .testmonial__card--2 {
+    transform: translateY(0);
+  }
+
+  .testmonial__card--3 {
+    transform: translateY(0);
+  }
+}

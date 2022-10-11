@@ -12,8 +12,30 @@ html {
 
 body {
   box-sizing: inherit;
+  background-image: url("../../images/bg-pattern-top-desktop.svg"),
+    url("../../images/bg-pattern-bottom-desktop.svg");
+  background-position: left 0 top 0, right 0 bottom 0;
+  background-repeat: no-repeat;
 }
 
 main {
   padding: 11.8rem 16.5rem 10rem;
+}
+
+@media screen and (max-width: 425px) {
+  html {
+    font-size: 52.5%;
+  }
+
+  body {
+    box-sizing: inherit;
+    background-image: url("../../images/bg-pattern-top-mobile.svg"),
+      url("../../images/bg-pattern-bottom-mobile.svg");
+    background-position: left 0 top 0, right 0 bottom 0;
+    background-repeat: no-repeat;
+  }
+
+  main {
+    padding: 8.2rem 2.4rem 10rem;
+  }
 }
