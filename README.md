@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-proof-section-with-css-flexbox-kEws-xTex2)
+- Live Site URL: [Social proof section challenge #live site](https://social-proof-section-one.vercel.app/)
 
 ## My process
 
