@@ -1,0 +1,42 @@
+/*Testmonial card styles*/
+
+.testmonial__card {
+  max-width: 350px;
+  height: 234px;
+  padding: 4rem 3.2rem;
+  background: #512051;
+  border-radius: 8px;
+}
+
+.testmonial__figure {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2.3rem;
+  margin-bottom: 3.1rem;
+}
+
+.testmonial__figure-img {
+  display: inline-block;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+}
+
+.testmonial__figure-caption--main,
+.testmonial__figure-caption--sub {
+  display: block;
+}
+
+.testmonial__card--1 {
+  transform: translateY(0);
+}
+
+.testmonial__card--2 {
+  transform: translateY(30px);
+}
+
+.testmonial__card--3 {
+  transform: translateY(60px);
+}

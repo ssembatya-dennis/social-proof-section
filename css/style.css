@@ -6,9 +6,11 @@
 
 /*Components*/
 @import url("./components/_rate.css");
+@import url("./components/_testmonial-card.css");
 
 /*Layout*/
 @import url("./layout/_social-proof.css");
+@import url("./layout/_testmonial.css");
 
 .attribution {
   font-size: 11px;

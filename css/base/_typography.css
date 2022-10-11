@@ -4,7 +4,6 @@ body {
   font-family: "League Spartan", sans-serif;
   font-weight: 400;
   line-height: 1.4;
-  color: #777;
 }
 
 /*Social Proof Typography*/
@@ -34,4 +33,26 @@ body {
   font-size: 17px;
   line-height: 16px;
   color: #512051;
+}
+
+/*Testmonial Card CSS*/
+
+.testmonial__figure-caption--main {
+  font-weight: 700;
+  font-size: 1.7rem;
+  color: #ffffff;
+}
+
+.testmonial__figure-caption--sub {
+  font-weight: 400;
+  font-size: 1.7rem;
+  color: #ee69a4;
+}
+
+.testmonial__info {
+  font-weight: 500;
+  font-size: 1.7rem;
+  line-height: 1.2;
+  letter-spacing: -0.303571px;
+  color: #ffffff;
 }

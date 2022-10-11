@@ -1,0 +1,10 @@
+/*Testmonial styles*/
+
+.testmonial__section {
+  padding-top: 7.1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3rem;
+}
